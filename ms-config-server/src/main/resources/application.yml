@@ -14,3 +14,5 @@ spring:
     user:
       name: root
       password:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ms_catalogo
