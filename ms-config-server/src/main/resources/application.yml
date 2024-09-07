@@ -10,9 +10,4 @@ spring:
           uri: https://github.com/Henyelrey/PRAC-DAD.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
-  security:
-    user:
-      name: root
-      password:
-  datasource:
-    url: jdbc:mysql://localhost:3306/ms_catalogo
+
